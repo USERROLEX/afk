@@ -1,0 +1,9 @@
+{
+	"ip":"friendshipOPfireXD.aternos.me",
+	"port": 16317,
+	"name": "server",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register server123",
+	"login-cmd":"/login server123"
+}
